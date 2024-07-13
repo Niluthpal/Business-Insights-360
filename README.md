@@ -31,27 +31,22 @@ IF(HASONEVALUE) etc.
 # Reports
 Finance Report: Created a finance report that:
 1.Displays the Profit and Loss (P&L) statement for any customer, product, country, or an aggregation of these over any specified time period by utilizing various measures such as Gross Sales, Post Invoice Deductions, Net Sales, COGS, and other essential P&L components created with DAX functions like CALCULATE and DIVIDE.
-
 2.Highlights the top and bottom customers and products by net sales.
 
 Sales Report: Created a sales report that:
 1.Showcases customer performance across key metrics such as Net Sales and Gross Margin.
-
 2.Allows viewing of these metrics in a profitability and growth matrix, providing a clear picture of customer performance.
 
 Marketing Report: Created a marketing report that:
 1.Evaluates product performance using key metrics like Net Sales and Gross Margin.
-
 2.Presents these metrics in a profitability and growth matrix to assess product success and areas for improvement.
 
 Supply Chain Report: Created a supply chain report that:
 1.Measures Forecast Accuracy and Net Error to ensure precise demand planning.
-
 2.Identifies risk profiles such as Excess Inventory or Out of Stock situations for products, segments, categories, and customers.
 
 Executive Report: Ceated a Executive Report that:
 1.Consolidates top insights from all business dimensions into a high-level dashboard.
-
 2.Provides executives with a comprehensive overview of critical performance indicators and trends across the organization.
 
 
