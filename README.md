@@ -1,6 +1,5 @@
 # Business-Insights-360
-
- [<iframe title="Business Insights 360" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWQxM2NjZjgtODJlYS00NTY1LTljYTctZTIxZmRlNWJhMWQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiOGQ4MmZmMmUtOTJjNC00YTFhLTkxMWYtOWU0ODQ2NTU0ZmIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Live Dashboard: [<iframe title="Business Insights 360" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWQxM2NjZjgtODJlYS00NTY1LTljYTctZTIxZmRlNWJhMWQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiOGQ4MmZmMmUtOTJjNC00YTFhLTkxMWYtOWU0ODQ2NTU0ZmIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # About Project:
 Business Insights 360 project delivers a comprehensive analytical report for Finance, Sales, Marketing, Supply Chain
@@ -44,4 +43,15 @@ Executive Report: Ceated a Executive Report that consolidates top insights from 
 This comprehensive report helped AtliQ Technologies to get the control over the Gross Margin % which resulted in Increase of Net Profit and AtliQ Technologies also Increased their market share % from 5.9% in FY 2022 to 10% in FY 2023.
 
 # Dashboard
+1. ![Business Insights 360 (1)_page-0001](https://github.com/user-attachments/assets/b8a58078-1476-4359-a56b-b403a4911443)
+2. ![Business Insights 360 (1)_page-0002](https://github.com/user-attachments/assets/1b8d7695-d50c-46b1-ab28-077c4f8bb993)
+3. ![Business Insights 360 (1)_page-0003](https://github.com/user-attachments/assets/8664b105-f0d1-49f9-b143-f5370c3ea182)
+4. ![Business Insights 360 (1)_page-0004](https://github.com/user-attachments/assets/5a054aea-a1af-4274-97b0-d84abeed0764)
+5. ![Business Insights 360 (1)_page-0005](https://github.com/user-attachments/assets/56b34c48-2ced-45ed-9f29-c919adbfb58c)
+6. ![Business Insights 360 (2)_page-0001](https://github.com/user-attachments/assets/da0efde9-434a-4b5e-89b2-3d72df241209)
+
+
+
+
+
 
