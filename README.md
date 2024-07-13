@@ -4,4 +4,7 @@ Live Dashbord: <iframe title="Business Insights 360" width="600" height="373.5" 
 
 # About Project:
 
+Business Insights 360 project delivers a comprehensive analytical report for Finance, Sales, Marketing, Supply Chain
+and Executive department helping them to understand the key factors affecting their business and helps taking data-driven
+dicission.It supports each department and its overall impact on data-driven decision-making:
 
