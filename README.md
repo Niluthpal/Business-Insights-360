@@ -39,4 +39,6 @@ Supply Chain Report: Created a supply chain report that and measures Forecast Ac
 
 Executive Report: Ceated a Executive Report that consolidates top insights from all business dimensions into a high-level dashboard and provides executives with a comprehensive overview of critical performance indicators and trends across the organization.
 
+# Result
+This comprehensive report helped AtliQ Technologies to get the control over the Gross Margin % which resulted in Increase of Net Profit and AtliQ Technologies also Increased their market share % from 5.9% in FY 2022 to 10% in FY 2023.
 
